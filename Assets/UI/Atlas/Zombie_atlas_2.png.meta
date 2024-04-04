@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 9a3f92429f436084185f344041d70af1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 1
+  spritePivot: {x: 0, y: 1}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 616, z: 1057, w: 42}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_atlas_2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 604
+        width: 1429
+        height: 1432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b9b998fedf814fb05d59b2329b11e
+      internalID: 318828379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_1
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1445
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c739f5fbd2fc6a49a0d6fea7c54a1e3
+      internalID: 1740629011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_2
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1157
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf42b719f4f45d54384bfcb480bcec33
+      internalID: -922284708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_3
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 869
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafcfec15543c194ea624ca217e200ab
+      internalID: 1447978667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_4
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 581
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8347f735fff574e4a87c2fb364233d22
+      internalID: 2030892539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 423
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a663f84816f24d87124ec9a73ee95
+      internalID: -1099516883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 423
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea88c687dc53ff4187fe68b5262e889
+      internalID: -1041938567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_7
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 294
+        width: 282
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf071cdedd6c84a897d856fd640da2
+      internalID: -235634624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 187
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea1f062c2146d64882e3c34930dfda4
+      internalID: -977579095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 187
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7251b95d0402d44685501442fe592b7
+      internalID: 848659694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_10
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 5
+        width: 282
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6886d153113dec458d4cca8ea6a30a0
+      internalID: 1299976031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 853
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb338d87485ef514c8e4eae029bcbc6d
+      internalID: -757104763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_atlas_2_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 423
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e06c687d11ae845a69aefe6785a275
+      internalID: -881092829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -1024, y: -833.2422}
+      - {x: -1024, y: -1028}
+      - {x: -148.5804, y: -1028}
+      - {x: -148.5804, y: -834.2461}
+      - {x: -152.59608, y: -833.2422}
+    - - {x: 759.9686, y: -735.8633}
+      - {x: 739.8902, y: -764.97656}
+      - {x: 739.8902, y: -970.77734}
+      - {x: 745.9137, y: -1006.91797}
+      - {x: 761.97644, y: -1011.9375}
+      - {x: 929.63135, y: -1011.9375}
+      - {x: 1009.94507, y: -979.8125}
+      - {x: 1015.9686, y: -960.7383}
+      - {x: 1015.9686, y: -785.0547}
+      - {x: 998.902, y: -735.8633}
+    - - {x: -1011.95294, y: -927.6094}
+      - {x: -1011.95294, y: -941.66406}
+      - {x: -1008.94116, y: -946.6836}
+      - {x: -1009.94507, y: -953.71094}
+      - {x: -986.8549, y: -985.83594}
+      - {x: -952.72156, y: -1000.89453}
+      - {x: -209.81961, y: -1001.89844}
+      - {x: -164.64314, y: -963.75}
+      - {x: -163.63922, y: -947.6875}
+      - {x: -164.64314, y: -944.6758}
+      - {x: -162.6353, y: -940.66016}
+      - {x: -162.6353, y: -934.6367}
+      - {x: -163.63922, y: -1006.91797}
+      - {x: -1010.94904, y: -1006.91797}
+    - - {x: -1010.94904, y: -841.27344}
+      - {x: -163.63922, y: -841.27344}
+      - {x: -162.6353, y: -907.53125}
+      - {x: -161.63138, y: -903.5156}
+      - {x: -162.6353, y: -899.5}
+      - {x: -164.64314, y: -895.4844}
+      - {x: -163.63922, y: -891.46875}
+      - {x: -181.70981, y: -862.35547}
+      - {x: -194.76079, y: -851.3125}
+      - {x: -218.8549, y: -841.27344}
+      - {x: -227.8902, y: -841.27344}
+      - {x: -228.89412, y: -840.26953}
+      - {x: -944.6902, y: -840.26953}
+      - {x: -945.6941, y: -841.27344}
+      - {x: -955.73334, y: -841.27344}
+      - {x: -975.81177, y: -850.3086}
+      - {x: -986.8549, y: -856.33203}
+      - {x: -1006.93335, y: -881.4297}
+      - {x: -1010.94904, y: -895.4844}
+      - {x: -1010.94904, y: -897.4922}
+      - {x: -1011.95294, y: -898.4961}
+      - {x: -1012.95685, y: -906.52734}
+      - {x: -1011.95294, y: -914.5586}
+      - {x: -1010.94904, y: -913.5547}
+    - - {x: -1011.95294, y: -735.8633}
+      - {x: -1017.97644, y: -736.8672}
+      - {x: -1017.97644, y: -754.9375}
+      - {x: -978.82355, y: -824.20703}
+      - {x: -957.74115, y: -824.20703}
+      - {x: -918.58826, y: -762.96875}
+      - {x: -918.58826, y: -735.8633}
+    - - {x: -840.28235, y: -673.6211}
+      - {x: -840.28235, y: -782.04297}
+      - {x: -732.86273, y: -782.04297}
+      - {x: -731.8588, y: -774.0117}
+      - {x: -731.8588, y: -673.6211}
+    - - {x: 797.1137, y: -448.7461}
+      - {x: 739.8902, y: -509.98438}
+      - {x: 739.8902, y: -690.6875}
+      - {x: 751.93726, y: -722.8125}
+      - {x: 1015.9686, y: -722.8125}
+      - {x: 1015.9686, y: -493.92188}
+      - {x: 941.6784, y: -448.7461}
+    - - {x: -996.8941, y: -453.76562}
+      - {x: -1006.93335, y: -462.80078}
+      - {x: -1006.93335, y: -618.40625}
+      - {x: -841.28625, y: -618.40625}
+      - {x: -841.28625, y: -464.8086}
+      - {x: -851.3255, y: -453.76562}
+    - - {x: -806.14905, y: -453.76562}
+      - {x: -806.14905, y: -618.40625}
+      - {x: -641.50586, y: -618.40625}
+      - {x: -641.50586, y: -453.76562}
+    - - {x: 805.1451, y: -160.625}
+      - {x: 739.8902, y: -228.89062}
+      - {x: 739.8902, y: -365.42188}
+      - {x: 746.91766, y: -391.52344}
+      - {x: 784.06274, y: -435.6953}
+      - {x: 948.7059, y: -435.6953}
+      - {x: 1014.9647, y: -399.5547}
+      - {x: 1014.9647, y: -233.91016}
+      - {x: 956.73724, y: -160.625}
+    - - {x: -1019.9843, y: -420.63672}
+      - {x: -1016.97253, y: -423.64844}
+      - {x: 423.6549, y: -423.64844}
+      - {x: 423.6549, y: 1023.9844}
+      - {x: -1016.97253, y: 1023.9844}
+      - {x: -1019.9843, y: 1020.97266}
+    - - {x: -1012.95685, y: -388.51172}
+      - {x: -1012.95685, y: -395.53906}
+      - {x: -1011.95294, y: -396.54297}
+      - {x: -1011.95294, y: -404.57422}
+      - {x: -1005.9294, y: -412.60547}
+      - {x: -1001.9137, y: -415.6172}
+      - {x: -998.902, y: -416.6211}
+      - {x: -1011.95294, y: -415.6172}
+    - - {x: 403.57648, y: -417.625}
+      - {x: 406.58823, y: -414.61328}
+      - {x: 407.59216, y: -415.6172}
+      - {x: 414.6196, y: -408.58984}
+      - {x: 415.62354, y: -400.5586}
+      - {x: 415.62354, y: -394.53516}
+      - {x: 416.62744, y: -393.53125}
+      - {x: 416.62744, y: -386.5039}
+      - {x: 401.56863, y: -415.6172}
+      - {x: 401.56863, y: -416.6211}
+    - - {x: 784.06274, y: 127.49609}
+      - {x: 739.8902, y: 68.265625}
+      - {x: 739.8902, y: -51.19922}
+      - {x: 746.91766, y: -89.34766}
+      - {x: 822.2118, y: -147.57422}
+      - {x: 922.60394, y: -147.57422}
+      - {x: 999.9059, y: -119.46484}
+      - {x: 1014.9647, y: -92.359375}
+      - {x: 1014.9647, y: 47.183594}
+      - {x: 997.898, y: 127.49609}
+    - - {x: 778.03925, y: 415.6172}
+      - {x: 739.8902, y: 357.39062}
+      - {x: 739.8902, y: 194.75781}
+      - {x: 802.13336, y: 140.54688}
+      - {x: 983.84314, y: 140.54688}
+      - {x: 1014.9647, y: 193.7539}
+      - {x: 1014.9647, y: 362.41016}
+      - {x: 953.72546, y: 415.6172}
+    - - {x: 793.098, y: 703.7383}
+      - {x: 739.8902, y: 690.6875}
+      - {x: 739.8902, y: 476.85547}
+      - {x: 799.1216, y: 428.66797}
+      - {x: 936.6588, y: 428.66797}
+      - {x: 986.8549, y: 441.71875}
+      - {x: 1014.9647, y: 516.0078}
+      - {x: 1014.9647, y: 652.53906}
+      - {x: 987.8588, y: 703.7383}
+    - - {x: 417.63138, y: 987.84375}
+      - {x: 416.62744, y: 991.8594}
+      - {x: 414.6196, y: 997.8828}
+      - {x: 400.5647, y: 1009.9297}
+      - {x: -986.8549, y: 1009.9297}
+      - {x: -996.8941, y: 1008.9258}
+      - {x: -1001.9137, y: 1005.91406}
+      - {x: -1004.9255, y: 1002.90234}
+      - {x: -1011.95294, y: 994.8711}
+      - {x: -1012.95685, y: 991.8594}
+      - {x: -1012.95685, y: 987.84375}
+      - {x: -1011.95294, y: 1015.9531}
+      - {x: 415.62354, y: 1015.9531}
+      - {x: 416.62744, y: 983.8281}
+      - {x: 417.63138, y: 984.83203}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_atlas_2_0: 318828379
+      Zombie_atlas_2_1: 1740629011
+      Zombie_atlas_2_10: 1299976031
+      Zombie_atlas_2_11: -757104763
+      Zombie_atlas_2_12: -881092829
+      Zombie_atlas_2_2: -922284708
+      Zombie_atlas_2_3: 1447978667
+      Zombie_atlas_2_4: 2030892539
+      Zombie_atlas_2_5: -1099516883
+      Zombie_atlas_2_6: -1041938567
+      Zombie_atlas_2_7: -235634624
+      Zombie_atlas_2_8: -977579095
+      Zombie_atlas_2_9: 848659694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

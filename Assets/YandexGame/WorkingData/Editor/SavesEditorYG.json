@@ -1,0 +1,46 @@
+{
+    "idSave": 20,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "Money": 180,
+    "ZombieSaveYG": [
+        {
+            "instanceID": 33712
+        },
+        {
+            "instanceID": 33712
+        },
+        {
+            "instanceID": 33712
+        },
+        {
+            "instanceID": 33712
+        }
+    ],
+    "WaveZombie": 3,
+    "MissionCount": [
+        2,
+        2,
+        0,
+        5
+    ],
+    "MissioncountMax": [
+        2,
+        3,
+        4,
+        5
+    ],
+    "ReawrdMoney": [
+        10,
+        20,
+        25,
+        40
+    ]
+}
